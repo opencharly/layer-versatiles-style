@@ -1,7 +1,7 @@
 version: 2026.232.0520
 versatiles-style:
     candy:
-        version: 2026.144.1443
+        version: 2026.243.0100
         description: |
             Local @versatiles/style MapLibre style-generator browser bundle for the Shortbread schema
             @versatiles/style is a TypeScript MapLibre style generator producing
@@ -16,7 +16,7 @@ versatiles-style:
             versatiles-style*.js must land under the install path, and the node
             toolchain that built and serves it must be present.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.235.2056'
+            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
         distro:
             arch:
                 package:
