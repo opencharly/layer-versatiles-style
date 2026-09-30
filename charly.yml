@@ -14,7 +14,7 @@ versatiles-style:
             versatiles-style*.js must land under the install path, and the node
             toolchain that built and serves it must be present.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
+            - '@github.com/opencharly/layer-supervisord:v2026.271.1817'
         distro:
             arch:
                 package:
